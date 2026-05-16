@@ -1,6 +1,6 @@
-# Yo,  how you doin? 👋 I'm Vinycius Lu
+# Yo,  how you doin'? 👋 I'm Vinycius Lu
 
-**Software Engineering student at Fiap • São Paulo, Brasil**
+**Software Engineering student at FIAP • São Paulo, Brasil**
 
 ---
 
@@ -10,7 +10,8 @@
 * 💻 Constantly improving programming skills
 * 🎨 UI/UX and visual design enthusiast
 * 📚 Advanced English
-* Fun Fact: I genuinely enjoy making interfaces look aesthetically pleasing
+* Fun Fact: I genuinely enjoy polishing UI details
+  
 ---
 
 ## Tech stack & learning
