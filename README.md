@@ -1,36 +1,31 @@
-## # Olá, eu sou o Vinycius 👋
+# Yo,  how you doin? 👋 I'm Vinycius Lu
 
-💻 Estudante e desenvolvedor front-end  
-🎯 Focado em HTML, CSS e JavaScript  
-📚 Atualmente aprendendo desenvolvimento web e UI/UX  
-🚀 Criando projetos para evoluir minhas habilidades
+**Software Engineering student at Fiap • São Paulo, Brasil**
 
 ---
 
-## 🛠 Tecnologias
+## About me
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+* ⚡ Developer focused on technology, creativity and modern digital experiences
+* 💻 Constantly improving programming skills
+* 🎨 UI/UX and visual design enthusiast
+* 📚 Advanced English
+* Fun Fact: I genuinely enjoy making interfaces look aesthetically pleasing
+---
 
-  <img align="center" alt="CSS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+## Tech stack & learning
 
-  <img align="center" alt="JS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+* 📸 Instagram: [@viny.luu](https://www.instagram.com/viny.luu/)
+* 💻 LinkedIn: [Vinycius Lu](https://www.linkedin.com/in/vinycius-lu-9347b23b5/)
 
 ---
 
-## 📫 Contato
+## GitHub Activity
 
-- LinkedIn: SEU LINK
-- Email: seuemail@email.com
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinyciuslu&theme=tokyo-night&hide_border=true)
