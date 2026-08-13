@@ -37,11 +37,7 @@
 </div>
 
 
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![Top Languages](https://raw.githubusercontent.com/vinyciuslu/vinyciuslu/languages-output/languages.svg)
 
 ---
 
