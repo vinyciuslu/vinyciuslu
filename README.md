@@ -19,7 +19,7 @@
 ---
 
 ## Tech Stack
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react" height="45" alt="Technologies Used" margin="200px" />
 <br><img src="https://raw.githubusercontent.com/vinyciuslu/vinyciuslu/languages-output/languages.svg" width="400" />
 
