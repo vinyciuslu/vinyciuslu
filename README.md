@@ -18,26 +18,10 @@
   
 ---
 
-## Tech stack & learning
-
-<br clear="both">
-
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-
-![Top Languages](https://raw.githubusercontent.com/vinyciuslu/vinyciuslu/languages-output/languages.svg)
+## Tech Stack
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react" height="45" alt="Technologies Used" margin="200px" />
+<br><img src="https://raw.githubusercontent.com/vinyciuslu/vinyciuslu/languages-output/languages.svg" width="400" />
 
 ---
 
